@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Артур Баллод](https://up.htmlacademy.ru/javascript/18/user/86012).
-* Наставник: `Неизвестно`.
+* Наставник: `Магомед Кандаев`.
 
 ---
 
